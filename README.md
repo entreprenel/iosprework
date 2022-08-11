@@ -1,6 +1,6 @@
-# Pre-work - *Name of App Here*
+# Pre-work - Tip Calc
 
-"Tip Calulator" is a tip calculator application for iOS.
+"Tip Calc" is a tip calculator application for iOS.
 
 Submitted by: Enel Elas
 
